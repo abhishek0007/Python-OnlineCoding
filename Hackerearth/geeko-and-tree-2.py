@@ -1,5 +1,4 @@
-T=input()
-T=int(T)
+T=int(raw_input())
 L=[]
 while T>0:
     Branches,Levels=raw_input().split()
